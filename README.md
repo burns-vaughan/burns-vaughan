@@ -2,9 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Virtual Machines</b>
-  - [How to Create a Virtual Machine in Azure](https://github.com/burns-vaughan/virtual-machine-azure)
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/burns-vaughan/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/burns-vaughan/post-install-config)
@@ -12,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/burns-vaughan/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/burns-vaughan/azure-network-protocols)
+  - [How to Create a Virtual Machine in Azure](https://github.com/burns-vaughan/virtual-machine-azure)
 
 <h2>🤳Connect with me:</h2>
 
